@@ -4,7 +4,7 @@ A simple cube root calculator, easy to use works on Windows,Linux,Mac or any oth
 
 
 Requirments
-1.Python 3.6 or higher
+1.Python 3.12 or higher
 
 No External Dependencies are required.
 
